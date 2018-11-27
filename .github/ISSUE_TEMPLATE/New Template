@@ -1,0 +1,16 @@
+name	about
+
+Feature request
+
+Suggest an idea for this project
+
+Is your feature request related to a problem? Please describe. A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+Describe the solution you'd like A clear and concise description of what you want to happen.
+I am trying to understand the function of the off screen cameras in relation to the on screen cameras.
+Are of screen cameras required? I assume off screen cameras consume network, CPU and GPU resources just as if they were on screen.
+At the moment I am in need of a 6 camera on screen template. I would however liie to understand better to help write templates in the future.
+
+Describe alternatives you've considered A clear and concise description of any alternative solutions or features you've considered.
+
+Additional context Add any other context or screenshots about the feature request here.
